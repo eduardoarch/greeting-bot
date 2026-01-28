@@ -1,7 +1,7 @@
 # greeting-bot
 <p align="center">
   <!-- 🔽 IMAGEM DO PROJETO 🔽 -->
-  <img width="1024" height="1024" alt="greenting bot" src="https://github.com/user-attachments/assets/4e842ed8-2d82-426f-bddf-9d7ac9f8e86d" alt="Elonbot - JavaScript Fun Bot" />
+  <img width="300" alt="greenting bot" src="https://github.com/user-attachments/assets/4e842ed8-2d82-426f-bddf-9d7ac9f8e86d" alt="Elonbot - JavaScript Fun Bot" />
   <!-- <img src="./assets/elonbot.png" alt="Elonbot - JavaScript Fun Bot" width="300"/> -->
 </p>
 
